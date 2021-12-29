@@ -14,11 +14,11 @@ dependencies:
   external_dependencies:
     git:
       url: https://github.com/euclidesgc/external_dependencies.git
-      ref: v1.0.0
+      ref: v1.1.0
   design_system:
     git:
       url: https://github.com/euclidesgc/design_system.git
-      ref: v1.0.0
+      ref: v1.1.0
 
 dev_dependencies:
   flutter_test:
